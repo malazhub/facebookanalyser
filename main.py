@@ -1,4 +1,3 @@
-
 ACCESS_CODE = "12345"  # الكود الذي يجب على المستخدم إدخاله
 
 from flask import Flask, render_template_string, request
